@@ -1,0 +1,43 @@
+{
+  "creation_date": "2025-05-31T18:13:41.426408",
+  "total_questions": 796,
+  "categories": [
+    "basic_syntax",
+    "arrays_strings",
+    "pointers_memory",
+    "data_structures",
+    "file_operations",
+    "advanced_topics"
+  ],
+  "problem_types": [
+    "code_completion",
+    "debugging",
+    "explanation",
+    "implementation",
+    "code_review"
+  ],
+  "statistics": {
+    "avg_question_length": 220.96608040201005,
+    "avg_answer_length": 918.4547738693467,
+    "category_distribution": {
+      "basic_syntax": 140,
+      "data_structures": 138,
+      "advanced_topics": 138,
+      "arrays_strings": 134,
+      "pointers_memory": 134,
+      "file_operations": 112
+    },
+    "problem_type_distribution": {
+      "explanation": 172,
+      "code_completion": 170,
+      "debugging": 170,
+      "implementation": 170,
+      "code_review": 114
+    },
+    "difficulty_distribution": {
+      "advanced": 288,
+      "intermediate": 280,
+      "basic": 228
+    }
+  }
+}
